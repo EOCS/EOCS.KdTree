@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EOCS.KdTree.Data", "EOCS.KdTree.Data\EOCS.KdTree.Data.csproj", "{6EC74D6C-03F1-4F84-BDC0-CD39D7D4C5D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOCS.KdTree.Main", "EOCS.KdTree.Main\EOCS.KdTree.Main.csproj", "{E6FCA4CD-FAFE-41B1-B668-1EFED52B75BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC74D6C-03F1-4F84-BDC0-CD39D7D4C5D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC74D6C-03F1-4F84-BDC0-CD39D7D4C5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC74D6C-03F1-4F84-BDC0-CD39D7D4C5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC74D6C-03F1-4F84-BDC0-CD39D7D4C5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6FCA4CD-FAFE-41B1-B668-1EFED52B75BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6FCA4CD-FAFE-41B1-B668-1EFED52B75BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6FCA4CD-FAFE-41B1-B668-1EFED52B75BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6FCA4CD-FAFE-41B1-B668-1EFED52B75BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ABE3B9B-9C4F-4740-BEBD-675CA9DD2389}
+	EndGlobalSection
+EndGlobal
